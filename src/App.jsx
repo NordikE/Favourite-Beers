@@ -1,12 +1,15 @@
 import "./App.css";
-import beer1 from "./assets/13643502-1.jpg";
+import beerInfo from "./BeerInfo.js";
 import userData from "./static_data/users.json";
+
+console.log(beerInfo);
+console.log(userData);
 
 function App() {
   console.log(userData);
   return (
     <>
-      <img src={beer1} alt="First favourite beer" />;
+      <img src={beerInfo.image} alt="" />;
     </>
   );
 }
