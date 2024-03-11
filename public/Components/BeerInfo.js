@@ -1,4 +1,4 @@
-const beerInfo = [
+export const beerInfo = [
   {
     id: 1,
     name: "Ægir Minus",
@@ -78,32 +78,26 @@ const beerInfo = [
   },
 
   {
-    id: 13,
+    id: 14,
     name: "Paulaner Blue Hefe Weiss Beer",
     image: "./BeerInfoImages/PaulanderWeissBlue.jpg",
   },
 
   {
-    id: 12,
-    name: "Lervig No Worries Christmas Ale",
-    image: "./BeerInfoImages/NoWorriesChristmas.jpg",
+    id: 15,
+    name: "Schneider Blue Weiss Beer",
+    image: "./BeerInfoImages/SchneiderWeissBlue.jpg",
   },
 
   {
-    id: 12,
-    name: "Lervig No Worries Christmas Ale",
-    image: "./BeerInfoImages/NoWorriesChristmas.jpg",
+    id: 16,
+    name: "VandeStreek Coffee Nitro Stout",
+    image: "./BeerInfoImages/VandestreekCoffee.jpg",
   },
 
   {
-    id: 12,
-    name: "Lervig No Worries Christmas Ale",
-    image: "./BeerInfoImages/NoWorriesChristmas.jpg",
-  },
-
-  {
-    id: 12,
-    name: "Lervig No Worries Christmas Ale",
-    image: "./BeerInfoImages/NoWorriesChristmas.jpg",
+    id: 17,
+    name: "VandeStreek Grapefruit IPA",
+    image: "./BeerInfoImages/VandestreekGrapefruit.jpg",
   },
 ];
