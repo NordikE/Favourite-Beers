@@ -51,5 +51,6 @@
   color: yellow;
 }
 #beer-info img {
+  border-radius: 0.2em;
   height: 10em;
 }
