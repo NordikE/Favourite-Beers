@@ -20,7 +20,7 @@ export const BeerInfo = [
   {
     id: 4,
     name: "BrewDog Lost AF lager",
-    image: "../src/assets/Components/BrewdogLostAF.jpg",
+    image: "./src/assets/Components/BrewdogLostAF.jpg",
   },
 
   {
