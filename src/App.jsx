@@ -1,16 +1,21 @@
+import { React } from "react";
 import "./App.css";
-import beerInfo from "./BeerInfo.js";
-import userData from "./static_data/users.json";
-
-console.log(beerInfo);
-console.log(userData);
+import { BeerInfo } from "./BeerInfo.js";
 
 function App() {
-  console.log(userData);
+  console.log(BeerInfo);
+  const beerImages = BeerInfo.map((beer) => (
+    <div key={beer.id}>
+      <h2>{beer.name}</h2>
+      <img src={beer.image} alt={beer.name} />
+    </div>
+  ));
+
   return (
-    <>
-      <img src={beerInfo.image} alt="" />;
-    </>
+    <div id="beer-info">
+      <h1>My favourite beers!</h1>
+      {beerImages}
+    </div>
   );
 }
 

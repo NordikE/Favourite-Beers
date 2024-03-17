@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+#beer-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+#beer-info h1 {
+  color: yellow;
+}
+#beer-info img {
+  height: 10em;
+}
