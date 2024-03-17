@@ -8,7 +8,7 @@ export const BeerInfo = [
   {
     id: 2,
     name: "Amundsen Hazy IPA",
-    image: "./assets/Components/AmundsenHazy.jpg",
+    image: "../src/assets/Components/AmundsenHazy.jpg",
   },
 
   {
