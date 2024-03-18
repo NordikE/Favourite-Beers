@@ -1,5 +1,15 @@
 import aegirMinusImage from "../../vite-project/public/assets/AegirMinus.jpg";
 import amundsenHazyImage from "../../vite-project/public/assets/AmundsenHazy.jpg";
+import athleticRunWildImage from "../../vite-project/public/assets/AthleticRunWild.jpg";
+import brewdogLostImage from "../../vite-project/public/assets/BrewdogLostAF.jpg";
+import brewdogNannyImage from "../../vite-project/public/assets/BrewdogNannyState.jpg";
+import brooklynSEImage from "../../vite-project/public/assets/BrooklynSpecialEffects.jpg";
+import bruloMangoImage from "../../vite-project/public/assets/BruloMango.jpg";
+import erdingerBlueImage from "../../vite-project/public/assets/ErdingerBlue.jpg";
+import noegneJulefriImage from "../../vite-project/public/assets/NoegneOeJulefri.jpg";
+import noegneSvartHvitImage from "../../vite-project/public/assets/NoegneOeSvartHvit.jpg";
+import noWorriesImage from "../../vite-project/public/assets/NoWorries.jpg";
+import noWorriesChristmasImage from "../../vite-project/public/assets/NoWorriesChristmas.jpg";
 
 export const BeerInfo = [
   {
@@ -17,37 +27,37 @@ export const BeerInfo = [
   {
     id: 3,
     name: "Althletic Run Wild IPA",
-    image: "./assets/AthleticRunWild.jpg",
+    image: athleticRunWildImage,
   },
 
   {
     id: 4,
     name: "BrewDog Lost AF lager",
-    image: "../public/assets/BrewdogLostAF.jpg",
+    image: brewdogLostImage,
   },
 
   {
     id: 5,
     name: "BrewDog Nanny State Hoppy Ale",
-    image: ".../public/assets/BrewdogNannyState.jpg",
+    image: brewdogNannyImage,
   },
 
   {
     id: 6,
     name: "Brooklyn Special Effects",
-    image: ".../public/assets/BrooklynSpecialEffects.jpg",
+    image: brooklynSEImage,
   },
 
   {
     id: 7,
     name: "Brulo MAngo Guava IPA",
-    image: ".../public/assets/BruloMango.jpg",
+    image: bruloMangoImage,
   },
 
   {
     id: 8,
     name: "Erdinger Blue Weiss",
-    image: ".../public/assets/ErdingerBlue.jpg",
+    image: erdingerBlueImage,
   },
 
   {
