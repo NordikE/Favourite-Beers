@@ -2,7 +2,7 @@ export const BeerInfo = [
   {
     id: 1,
     name: "Aegir Minus",
-    image: "../../vite-project/src/assets/Components/AegirMinus.jpg",
+    image: "../public/assets/AegirMinus.jpg",
   },
 
   {
