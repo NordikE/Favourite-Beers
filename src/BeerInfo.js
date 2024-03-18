@@ -3,7 +3,7 @@ import amundsenHazyImage from "../../vite-project/public/assets/AmundsenHazy.jpg
 
 export const BeerInfo = [
   {
-    id: 0,
+    id: 1,
     name: "Aegir Minus",
     image: aegirMinusImage,
   },
