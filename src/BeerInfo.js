@@ -17,7 +17,7 @@ export const BeerInfo = [
   {
     id: 3,
     name: "Althletic Run Wild IPA",
-    image: "../public/assets/AthleticRunWild.jpg",
+    image: "./assets/AthleticRunWild.jpg",
   },
 
   {
