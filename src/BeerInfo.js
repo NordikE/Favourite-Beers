@@ -63,23 +63,23 @@ export const BeerInfo = [
   {
     id: 9,
     name: "Nøgne Ø Julefri",
-    image: ".../public/assets/NoegneOeJulefri.jpg",
+    image: noegneJulefriImage,
   },
   {
     id: 10,
     name: "Nøgne Ø Svart/ Hvit",
-    image: ".../public/assets/NoegneOeSvartHvit.jpg",
+    image: noegneSvartHvitImage,
   },
 
   {
     id: 11,
     name: "Lervig No Worries",
-    image: ".../public/assets/NoWorries.jpg",
+    image: noWorriesImage,
   },
 
   {
     id: 12,
     name: "Lervig No Worries Driving Home For Christmas",
-    image: ".../public/assets/NoWorriesChristmas.jpg",
+    image: noWorriesChristmasImage,
   },
 ];
