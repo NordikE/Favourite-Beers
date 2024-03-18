@@ -5,7 +5,7 @@ import { BeerInfo } from "./BeerInfo.js";
 function App() {
   console.log(BeerInfo);
   const beerImages = BeerInfo.map((beer) => (
-    <div className="beerCards" key={beer.id}>
+    <div className="beerCard" key={beer.id}>
       <h2>{beer.name}</h2>
       <img src={beer.image} alt={beer.name} />
     </div>
