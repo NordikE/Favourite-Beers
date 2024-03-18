@@ -1,15 +1,15 @@
 import aegirMinusImage from "../public/assets/AegirMinus.jpg";
-import amundsenHazyImage from "../../vite-project/public/assets/AmundsenHazy.jpg";
-import athleticRunWildImage from "../../vite-project/public/assets/AthleticRunWild.jpg";
-import brewdogLostImage from "../../vite-project/public/assets/BrewdogLostAF.jpg";
-import brewdogNannyImage from "../../vite-project/public/assets/BrewdogNannyState.jpg";
-import brooklynSEImage from "../../vite-project/public/assets/BrooklynSpecialEffects.jpg";
-import bruloMangoImage from "../../vite-project/public/assets/BruloMango.jpg";
-import erdingerBlueImage from "../../vite-project/public/assets/ErdingerBlue.jpg";
-import noegneJulefriImage from "../../vite-project/public/assets/NoegneOeJulefri.jpg";
-import noegneSvartHvitImage from "../../vite-project/public/assets/NoegneOeSvartHvit.jpg";
-import noWorriesImage from "../../vite-project/public/assets/NoWorries.jpg";
-import noWorriesChristmasImage from "../../vite-project/public/assets/NoWorriesChristmas.jpg";
+import amundsenHazyImage from "../public/assets/AmundsenHazy.jpg";
+import athleticRunWildImage from "../public/assets/AthleticRunWild.jpg";
+import brewdogLostImage from "../public/assets/BrewdogLostAF.jpg";
+import brewdogNannyImage from "../public/assets/BrewdogNannyState.jpg";
+import brooklynSEImage from "../public/assets/BrooklynSpecialEffects.jpg";
+import bruloMangoImage from "../public/assets/BruloMango.jpg";
+import erdingerBlueImage from "../public/assets/ErdingerBlue.jpg";
+import noegneJulefriImage from "../public/assets/NoegneOeJulefri.jpg";
+import noegneSvartHvitImage from "../public/assets/NoegneOeSvartHvit.jpg";
+import noWorriesImage from "../public/assets/NoWorries.jpg";
+import noWorriesChristmasImage from "../public/assets/NoWorriesChristmas.jpg";
 
 export const BeerInfo = [
   {
