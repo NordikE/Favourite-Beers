@@ -1,8 +1,10 @@
+import aegirMinusImage from "../../vite-project/public/assets/AegirMinus.jpg";
+
 export const BeerInfo = [
   {
     id: 1,
     name: "Aegir Minus",
-    image: "../public/assets/AegirMinus.jpg",
+    image: aegirMinusImage,
   },
 
   {
