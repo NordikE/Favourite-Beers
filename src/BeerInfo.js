@@ -1,4 +1,4 @@
-import aegirMinusImage from "../../vite-project/public/assets/AegirMinus.jpg";
+import aegirMinusImage from "../public/assets/AegirMinus.jpg";
 import amundsenHazyImage from "../../vite-project/public/assets/AmundsenHazy.jpg";
 import athleticRunWildImage from "../../vite-project/public/assets/AthleticRunWild.jpg";
 import brewdogLostImage from "../../vite-project/public/assets/BrewdogLostAF.jpg";
