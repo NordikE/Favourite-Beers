@@ -1,4 +1,5 @@
 import aegirMinusImage from "../../vite-project/public/assets/AegirMinus.jpg";
+import amundsenHazyImage from "../../vite-project/public/assets/AmundsenHazy.jpg";
 
 export const BeerInfo = [
   {
@@ -10,7 +11,7 @@ export const BeerInfo = [
   {
     id: 2,
     name: "Amundsen Hazy IPA",
-    image: "../public/assets/AmundsenHazy.jpg",
+    image: amundsenHazyImage,
   },
 
   {
