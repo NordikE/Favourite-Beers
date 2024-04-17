@@ -14,7 +14,7 @@ function App() {
   return (
     <div id="beer-info">
       <h1>My favourite beers!</h1>
-      <p>Because I like the taste....</p>
+      <p>Because I like the taste...</p>
       {beerImages}
     </div>
   );
