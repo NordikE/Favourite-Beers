@@ -13,10 +13,8 @@ function App() {
 
   return (
     <div id="beer-info">
-      <h1>
-        My favourite beers!
-        <p>Because I like the taste...</p>
-      </h1>
+      <h1>My favourite beers!</h1>
+      <p>Because I like the taste...</p>
       {beerImages}
     </div>
   );
